@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Walls</key>
+	<array>
+		<dict>
+			<key>x</key>
+			<string>400</string>
+			<key>y</key>
+			<string>400</string>
+		</dict>
+		<dict>
+			<key>x</key>
+			<string>500</string>
+			<key>y</key>
+			<string>700</string>
+		</dict>
+		<dict>
+			<key>x</key>
+			<string>560</string>
+			<key>y</key>
+			<string>900</string>
+		</dict>
+		<dict>
+			<key>x</key>
+			<string>700</string>
+			<key>y</key>
+			<string>740</string>
+		</dict>
+		<dict>
+			<key>x</key>
+			<string>120</string>
+			<key>y</key>
+			<string>140</string>
+		</dict>
+	</array>
+	<key>Enemies</key>
+	<array>
+		<dict>
+			<key>key_position</key>
+			<string>{200,300}</string>
+			<key>key_rotation</key>
+			<string>90</string>
+			<key>key_shot_distance</key>
+			<string>200</string>
+			<key>key_health</key>
+			<string>200</string>
+			<key>key_damage</key>
+			<string>10</string>
+			<key>key_move_speed</key>
+			<string>60</string>
+			<key>key_rot_speed</key>
+			<string>150</string>
+			<key>key_appearing_delay</key>
+			<string>3</string>
+		</dict>
+	</array>
+	<key>LevelDuration</key>
+	<string>15</string>
+</dict>
+</plist>
